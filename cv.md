@@ -19,10 +19,10 @@
         Moscow State Open University
         Moscow, Russia
 ---
-## ** foreign language skills **
+## **foreign language skills**
 English - pre-intermediate (September 2010), I continue my studies
 ---
-## ** recommendation **
+## **recommendation**
 can be provided upon request
 
 
