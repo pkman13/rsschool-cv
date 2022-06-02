@@ -5,7 +5,7 @@
 * discord  pkman
 * phone +375295588220
 * e-mail sergey.grinkevich@gmail.com
-* lincid ...
+* linkedin ...
 * github pkman13
 ---
 ## **education**
