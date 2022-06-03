@@ -24,6 +24,12 @@ ___
 
 
 ___
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+___
 ## **foreign language skills**
 English - pre-intermediate (September 2010), I continue my studies
 
