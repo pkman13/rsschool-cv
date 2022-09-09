@@ -8,7 +8,7 @@
 
 ## about me 
 
-I am 38 years old, I am an energy engineer, I worked as an entrepreneur in the energy sector, but after 2020 I had to leave Belarus, I decided to change the type of activity and become a front-end developer
+I am 39 years old, I am an energy engineer, I worked as an entrepreneur in the energy sector, but after 2020 I had to leave Belarus, I decided to change the type of activity and become a front-end developer
 
 ## skills
 
@@ -32,13 +32,22 @@ function updateLight(current) {
   }
 ```
 
-  ## experience
+## experience
 
   * training projects of the preparatory course
       * [travel](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/travel/)
       * [momentum](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/momentum/)
 ## edukation
 
+* __Minsk State Polytechnic College Minsk, Belarus__
+     * Automated electric drive
+* __Moscow State Open University Moscow__
+    * Electric drive and automation industrial installations and technological complexes
+* [__CS50__](https://www.youtube.com/c/cs50)   
+* __RCschool__ 
+    * JavaScript/Front-and Pre-School 2022Q2
+
+         
 
 
 
