@@ -47,7 +47,12 @@ function updateLight(current) {
 * __RCschool__ 
     * JavaScript/Front-and Pre-School 2022Q2
 
-         
+## english
+
+ English B1 , studied on streamline , I am currently learning with [lingualeo](lingualeo.com) and [duolingo](https://www.duolingo.com/)
+
+
+
 
 
 
