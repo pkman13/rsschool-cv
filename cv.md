@@ -26,12 +26,20 @@ function updateLight(current) {
     return  "yellow"
    } else if (current === "yellow") {
       return "red"
-  } else {
+   } else {
       return "green"
      }
   }
-  ```
-  
+```
+
+  ## experience
+
+  * training projects of the preparatory course
+      * [travel](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/travel/)
+      * [momentum](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/momentum/)
+## edukation
+
+
 
 
 
