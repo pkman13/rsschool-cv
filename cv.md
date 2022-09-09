@@ -3,7 +3,7 @@
 ## contacts 
 
 * discord - pkman
-* Github - [pkman13] (https://github.com/pkman13)
+* Github - [pkman13](https://github.com/pkman13)
 * e-mail - sergey.grinkevich@gmail.com
 
 ## about me 
