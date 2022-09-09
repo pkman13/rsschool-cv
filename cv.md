@@ -18,7 +18,20 @@ I am 38 years old, I am an energy engineer, I worked as an entrepreneur in the e
 * JavaScript
 * Figma
 
+## code exampel
 
+```
+function updateLight(current) {
+  if (current === "green") {
+    return  "yellow"
+   } else if (current === "yellow") {
+      return "red"
+  } else {
+      return "green"
+     }
+  }
+  ```
+  
 
 
 
