@@ -42,7 +42,7 @@ function updateLight(current) {
       * [travel](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/travel/)
       * [momentum](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/momentum/)
 
-  * [CodeWars] (https://www.codewars.com/users/rsschool_24f580785d00c10c)
+  * [CodeWars](https://www.codewars.com/users/rsschool_24f580785d00c10c)
 
 ## edukation
 
