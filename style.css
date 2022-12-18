@@ -15,6 +15,11 @@ body {
     align-items: center;
 }
 
+.section_profile_img{
+    width: 200px;
+    border-radius: 50%;
+}
+
 .nav_link {
     margin-left: 30px;
     text-decoration: none;
@@ -24,3 +29,20 @@ li {
     list-style: none;
 }
 
+.section_profile{
+    display: flex;
+    justify-content: space-around;
+}
+
+.rss {
+    width: 120px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.conteiner_footer{
+    display: flex;
+}
