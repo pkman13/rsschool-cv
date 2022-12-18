@@ -32,6 +32,7 @@ li {
 .section_profile{
     display: flex;
     justify-content: space-around;
+    width: 100%;
 }
 
 .rss {
@@ -45,4 +46,13 @@ li {
 
 .conteiner_footer{
     display: flex;
+}
+
+.section {
+    width: 50%;
+}
+
+.main_comtainer{
+    display: flex;
+    flex-wrap: wrap;
 }
