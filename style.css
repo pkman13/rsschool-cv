@@ -68,13 +68,14 @@ li {
 }
 
 .footer{
-    /* display: flex; */
     justify-content: space-around;
+
 }
 
 .conteiner_footer{
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .section {
