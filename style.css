@@ -85,3 +85,8 @@ li {
     display: flex;
     flex-wrap: wrap;
 }
+
+.pre {
+    background-color: rgb(233, 231, 231);
+    border-radius: 40px;
+}
