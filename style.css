@@ -24,6 +24,25 @@ body {
     align-items: center;
 }
 
+.navi_item{
+    transition: .5s;
+    color: black;
+}
+.navi_item :hover{
+    color: red;
+
+}
+
+a {
+    color: green;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: red;
+}
+
 .section_profile_img{
     width: 200px;
     border-radius: 50%;
