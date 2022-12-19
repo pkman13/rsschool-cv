@@ -49,12 +49,13 @@ li {
 }
 
 .footer{
-    display: flex;
+    /* display: flex; */
     justify-content: space-around;
 }
 
 .conteiner_footer{
     display: flex;
+    justify-content: space-around;
 }
 
 .section {
