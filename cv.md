@@ -37,6 +37,7 @@ function updateLight(current) {
   * training projects of the preparatory course
       * [travel](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/travel/)
       * [momentum](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q2/momentum/)
+      * [plants](https://rolling-scopes-school.github.io/pkman13-JSFEPRESCHOOL2022Q4/plants/)
 ## edukation
 
 * __Minsk State Polytechnic College Minsk, Belarus__
