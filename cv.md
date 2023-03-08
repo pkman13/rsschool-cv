@@ -50,7 +50,7 @@ function updateLight(current) {
 
 ## english
 
- English B1 , studied on streamline , I am currently learning with [lingualeo](lingualeo.com) and [duolingo](https://www.duolingo.com/)
+ English B1-  , studied on streamline , I am currently learning with [lingualeo](lingualeo.com) and [duolingo](https://www.duolingo.com/)
 
 [![rsscool](https://rollingscopes.com/images/logo_rs_text.svg)](https://rs.school)
 
