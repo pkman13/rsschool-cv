@@ -8,7 +8,15 @@
 
 ## about me 
 
+
+
+
+
+
+
+
 I am 40 years old, I am an energy engineer, I worked as an entrepreneur in the energy sector, but after 2020 I had to leave Belarus, I decided to change the type of activity and become a front-end developer
+
 
 ## skills
 
